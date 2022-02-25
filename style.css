@@ -1,0 +1,65 @@
+#circle {
+    margin: auto;
+    padding: 0;
+    border-radius: 12px;
+    width: 150px;
+    height: 200px;
+    background-image: linear-gradient(45deg, lightgreen, lightblue);
+    box-shadow: 0px 0px 10px white;
+    position: relative;
+    top: 30px;
+  }
+  
+  body {
+      padding-top: 100px;
+    background-image: linear-gradient(to right, #013220 50%, green);
+  }
+  
+  #b {
+    margin: 0;
+    padding: 0;
+    border: none;
+    position: relative;
+    top: 110px;
+    left: 25px;
+    color: red;
+  }
+  button {
+    margin: 0 auto;
+    border: none;
+    font-size: 12px;
+    border-radius: 5px;
+    font-family: "Jura", sans-serif;
+    color: white;
+    background-color: black;
+    position: relative;
+    top: 70%;
+    left: 7%;
+  }
+  button:hover {
+    background-color: gray;
+  }
+  input {
+    margin: auto;
+    width: 160px;
+    height: 50px;
+    font-size: 40px;
+    position: relative;
+    top: 80px;
+    left: 70px;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  #sample {
+    background-color: grey;
+    font-size: 25px;
+    color: white;
+    width: 85%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+  }
+  
